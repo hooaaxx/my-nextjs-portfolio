@@ -48,7 +48,7 @@ const AboutPage = () => {
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-            let's discuss how I can contribute to your next development endeavor or help bring your ideas to life.
+            let&apos;s discuss how I can contribute to your next development endeavor or help bring your ideas to life.
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="self-end">
